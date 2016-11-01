@@ -9,8 +9,8 @@ Personal Skill Set
 原则及内容参考了以下链接：
 
 
-* [nealford.com • Build Your Own Technology Radar](http://nealford.com/memeagora/2013/05/28/build_your_own_technology_radar.html)
-* [GitHub - JacksonTian/fks: 前端技能汇总 Frontend Knowledge Structure](https://github.com/JacksonTian/fks)
+* [Build Your Own Technology Radar](http://nealford.com/memeagora/2013/05/28/build_your_own_technology_radar.html)
+* [前端技能汇总 Frontend Knowledge Structure](https://github.com/JacksonTian/fks)
 * [Web开发方面的知识框架](http://insights.thoughtworkers.org/obsession-og-technology/)
 
 
@@ -91,7 +91,6 @@ Personal Skill Set
         - [YSlow 35 rules](http://developer.yahoo.com/performance/rules.html)
         - [PageSpeed](https://developers.google.com/speed/pagespeed/)
         - [HTTPWatch](http://www.httpwatch.com/)
-        - [DynaTrace's Ajax](http://www.compuware.com/application-performance-management/dynatrace-ajax-download.html)
         - [高性能JavaScript](http://book.douban.com/subject/5362856/)
     - SEO
     - 编程知识储备

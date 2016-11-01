@@ -4,7 +4,7 @@ var path = require('path');
 var readme = fs.readFileSync(path.join(__dirname, '../README.md'), 'utf8');
 
 var getItems = function (str) {
-  var patt = /([ ]*)-(.*)/g;
+  var patt = /^([ ]*)-(.*)/mg;
   var result;
 
   var list = [];
