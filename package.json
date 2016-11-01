@@ -1,0 +1,21 @@
+{
+  "name": "skill-set",
+  "version": "0.0.1",
+  "description": "Skill set of joelz",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joelz/skill-set.git"
+  },
+  "scripts": {
+    "make": "node ./bin/generate.js"
+  },
+  "keywords": [
+    "Frontend","Tech Radar","Skill Set"
+  ],
+  "author": "joelz",
+  "license": "MIT"
+}
