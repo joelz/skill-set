@@ -46,6 +46,7 @@ Personal Skill Set
             - [YSlow](http://developer.yahoo.com/yslow/)
             - [IEDeveloperToolbar](http://www.microsoft.com/en-us/download/details.aspx?id=18359)/[IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
             - [Charles](https://www.charlesproxy.com/)
+            - [Postman | Supercharge your API workflow](https://www.getpostman.com/)
         - 版本管理
             - [Git](http://git-scm.com/)/[Mercurial](http://mercurial.selenic.com/)/TFS
             - [Github](https://github.com/)/[GitLab](https://about.gitlab.com/)/[Bitbucket](https://bitbucket.org/)
@@ -65,12 +66,12 @@ Personal Skill Set
             - [SourceLabs](https://saucelabs.com/)/[BrowserStack](http://www.browserstack.com/)
     - 前端库/框架
         - [jQuery](http://jquery.com/)/[Underscore](http://underscorejs.org/)
-        - [Backbone](http://backbonejs.org/)/[KnockoutJS](http://knockoutjs.com/)/[Emberjs](http://emberjs.com/)
         - [AngularJS](http://angularjs.org/)
         - [Bootstrap](http://getbootstrap.com/)
         - [vue.js](http://cn.vuejs.org/)
-        - [Polymer](http://docs.polymerchina.org/)
         - [React](http://facebook.github.io/react/)
+        - [Backbone](http://backbonejs.org/)/[KnockoutJS](http://knockoutjs.com/)/[Emberjs](http://emberjs.com/)
+        - [Polymer](http://docs.polymerchina.org/)
     - 前端标准/规范
         - HTTP/1.1: RFCs 7230-7235
         - [HTTP/2](https://http2.github.io/)
@@ -171,10 +172,15 @@ Personal Skill Set
         - [Apache](http://httpd.apache.org/)
         - [Lighttpd](http://www.lighttpd.net/)
         - IIS
+    - 后端开发框架
+        - [Nancy:Lightweight Web Framework for .net](http://nancyfx.org/)
+        - Express / Koa
     - 数据库
         - SQL
         - MS SQL Server/[MySQL](http://www.mysql.com/)/[PostgreSQL](http://www.postgresql.org/)
         - [MongoDB](http://www.mongodb.org/)/[CouchDB](http://couchdb.apache.org/)
+        - [Realm: Create reactive mobile apps in a fraction of the time](https://realm.io/cn/)
+        - [Dapper, a simple object mapper for .Net](https://github.com/StackExchange/dapper-dot-net)
     - 数据缓存
         - [Redis](http://redis.io/)
         - [Memcached](http://memcached.org/)
