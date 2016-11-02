@@ -1,2 +1,5 @@
 parallel.html
-*~
+
+.vscode
+
+/skill_set_chart/data/*
